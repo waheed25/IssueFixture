@@ -63,7 +63,7 @@
     "pusher-js": "^5.0.3",
     "react-native-track-player": "1.1.8",
     "qs": "^6.6.0",
-    "querystringify": "1.0.0",
+    "querystringify": "2.0.0",
     "ramda": "^0.26.1",
     "react": "16.9.0",
     "react-content-loader": "^4.3.2",
