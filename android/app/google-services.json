@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "210123810570",
+    "firebase_url": "https://wefiq-1872b.firebaseio.com",
+    "project_id": "wefiq-1872b",
+    "storage_bucket": "wefiq-1872b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210123810570:android:2173d8f54049940d",
+        "android_client_info": {
+          "package_name": "com.create.wefiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210123810570-peftpmsh2mi23g8t5l18u82s3e8gdbd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.create.wefiq",
+            "certificate_hash": "a7bdd8c61207f66d156104a60112783b7c731668"
+          }
+        },
+        {
+          "client_id": "210123810570-rjvfjf3ne9rpe51hbrirgasptl6po2p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGI1BZMKBTdsAdJI6FrehHyfn3XOrSOF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210123810570-rjvfjf3ne9rpe51hbrirgasptl6po2p1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210123810570-4gfr851uc3du0h0ch3iqc8j9l6fcljn6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.create.wefiq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

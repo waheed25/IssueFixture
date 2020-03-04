@@ -1,0 +1,16 @@
+{
+  "presets": [
+    "module:metro-react-native-babel-preset",
+    "@babel/preset-flow"
+  ],
+  "env": {
+    "production": {
+      "plugins": [
+        "ignite-ignore-reactotron", "transform-remove-console"
+      ]
+    }
+  },
+  "plugins": [
+    "@babel/plugin-proposal-object-rest-spread"
+  ]
+}

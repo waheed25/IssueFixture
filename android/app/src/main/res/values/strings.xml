@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wefiq</string>
+    <string name="facebook_app_id">288558185380493</string>
+    <string name="fb_login_protocol_scheme">fb288558185380493</string>
+</resources>
