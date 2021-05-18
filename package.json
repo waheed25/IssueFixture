@@ -74,7 +74,7 @@
     "react-native-device-info": "^5.3.1",
     "react-native-easy-grid": "^0.2.0",
     "react-native-exception-handler": "^2.10.8",
-    "react-native-fast-image": "^6.1.1",
+    "react-native-fast-image": "^8.3.0",
     "react-native-fbsdk": "^1.1.1",
     "react-native-gesture-handler": "1.5.2",
     "react-native-google-places-autocomplete": "^1.4.0",
